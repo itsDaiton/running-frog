@@ -11,6 +11,6 @@ All graphical and audio files were provided to us by our client and are by no me
 
 ## Authors
 
-David Poslušný
-Šimon Kubín
-Jonáš Matějka
+* David Poslušný
+* Šimon Kubín
+* Jonáš Matějka
