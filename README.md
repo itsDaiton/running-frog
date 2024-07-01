@@ -3,8 +3,6 @@ A flash-like JavaScript game.
 
 Jump over incoming mushrooms and progress your way through magical forest.
 
-Live demo of this game can be found under this [**link**](https://cool-genie-41cf5f.netlify.app/).
-
 ![image](https://user-images.githubusercontent.com/72783924/222012726-01af33f2-8b88-4d1a-879e-49470c169f51.png)
 
 
